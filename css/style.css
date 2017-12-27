@@ -1,0 +1,44 @@
+body{
+    background-color: #f1f1f1;
+}
+
+.productListItem{
+    border: solid;
+}
+
+.productListItem img{
+    width:200px;
+    height: 200px;
+    padding: 2px;
+    border: 2px solid #f1f1f1;
+}
+
+.productTitle{
+    font-size: 32pt
+}
+
+#productListHolder{
+    background-color: aqua;
+}
+#cartListHolder table {
+    border:1px solid #ddd;
+}
+#cartListHolder table thead {
+    background:#1188ff;
+    color:#fff;
+    text-transform: uppercase;
+}
+#cartListHolder table th,#cartListHolder table td {
+    padding:5px 8px;
+}
+#cartListHolder table tr {
+    border-bottom:1px dashed #eee;
+}
+.tb-footer {
+    background:#eee;
+    border:0; 
+}
+.tb-footer th {
+    padding:5px 8px;
+}
+
